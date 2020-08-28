@@ -1,3 +1,7 @@
 # responsive-web-design
 
-Using only HTML and CSS
+Simple projects using only HTML and CSS
+
+Tribute page: https://codepen.io/shanmukhrvl/full/YzwRaVw
+
+Survey form: https://codepen.io/shanmukhrvl/full/pogmPXM
