@@ -1,6 +1,6 @@
 # responsive-web-design
 
-Simple projects using only HTML and CSS
+Projects built using pure HTML and CSS
 
 Tribute page: https://codepen.io/shanmukhrvl/full/YzwRaVw
 
